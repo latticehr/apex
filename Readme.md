@@ -192,20 +192,9 @@ $ echo '{ "name": "Tobi" }' | apex invoke bar
 { "hello": "Tobi" }
 ```
 
-See the [Documentation](http://apex.run) for more information.
-
-## Links
-
-- [Website](http://apex.run)
-- [Medium](https://medium.com/@tjholowaychuk)
-- [Slack](https://chat.apex.sh/)
-
 ---
 
 [![Build Status](https://semaphoreci.com/api/v1/projects/d27ff350-b9c5-4d99-96e5-64b1afb441c5/649392/badge.svg)](https://semaphoreci.com/tj/apex)
-[![Slack Status](https://apex-slackin.herokuapp.com/badge.svg)](https://apex-slackin.herokuapp.com/)
 [![GoDoc](https://godoc.org/github.com/apex/apex?status.svg)](https://godoc.org/github.com/apex/apex)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 ![](https://img.shields.io/badge/status-stable-green.svg) [![OpenCollective](https://opencollective.com/apex/backers/badge.svg)](#backers) [![OpenCollective](https://opencollective.com/apex/sponsors/badge.svg)](#sponsors)
-
-<a href="https://apex.sh"><img src="http://tjholowaychuk.com:6000/svg/sponsor"></a>
