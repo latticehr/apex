@@ -1,3 +1,8 @@
+v0.17.0 / 2020-09-08
+====================
+
+  * Move repo to https://github.com/latticehr/apex after the original repo was
+    apparently deleted by the maintainer. _Hey! We were using that!_
 
 v1.0.0-rc4 / 2018-08-29
 =======================
