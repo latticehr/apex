@@ -274,7 +274,7 @@ End of functions from https://github.com/client9/shlib
 ------------------------------------------------------------------------
 EOF
 
-OWNER=apex
+OWNER=latticehr
 REPO=apex
 BINARY=apex
 FORMAT=tar.gz
