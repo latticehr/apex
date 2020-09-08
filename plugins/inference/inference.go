@@ -5,12 +5,12 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/apex/apex/function"
-	"github.com/apex/apex/plugins/golang"
-	"github.com/apex/apex/plugins/java"
-	"github.com/apex/apex/plugins/nodejs"
-	"github.com/apex/apex/plugins/python"
-	"github.com/apex/apex/plugins/ruby"
+	"github.com/latticehr/apex/function"
+	"github.com/latticehr/apex/plugins/golang"
+	"github.com/latticehr/apex/plugins/java"
+	"github.com/latticehr/apex/plugins/nodejs"
+	"github.com/latticehr/apex/plugins/python"
+	"github.com/latticehr/apex/plugins/ruby"
 )
 
 func init() {

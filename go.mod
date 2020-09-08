@@ -1,4 +1,4 @@
-module github.com/apex/apex
+module github.com/latticehr/apex
 
 go 1.15
 

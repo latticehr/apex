@@ -9,9 +9,9 @@ import (
 	"github.com/pkg/errors"
 	"github.com/tj/cobra"
 
-	"github.com/apex/apex/project"
-	"github.com/apex/apex/service"
-	"github.com/apex/apex/utils"
+	"github.com/latticehr/apex/project"
+	"github.com/latticehr/apex/service"
+	"github.com/latticehr/apex/utils"
 )
 
 // environment for project.
